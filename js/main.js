@@ -21,7 +21,7 @@ $('.close-nav').on('click',function (){
 
 // });
 
-
+/*
 
 $(window).on("resize", function()
 { winW = $(window).width(); 
@@ -36,3 +36,4 @@ let winH = $(window).height();
 $(window).on(‘resize’, function(){
 winH = $(window).height(); // update
 $(‘.header’).height(winH); });
+*/
